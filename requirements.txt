@@ -1,0 +1,4 @@
+python-dotenv
+requests
+
+#butuh request buat nembak API

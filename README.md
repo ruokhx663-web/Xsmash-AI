@@ -1,4 +1,4 @@
-# 🚀 Xsmash - AI Codex for Termux
+# 🚀 Xsmash - AI for Termux
 
 Xsmash adalah asisten coding AI berbasis Command Line Interface (CLI) yang dirancang khusus untuk berjalan di atas **Termux (Android)**. 
 
